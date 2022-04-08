@@ -1,0 +1,5 @@
+#	土壤表			
+#	id	des	name	
+#	int	string	string	
+#	编号	备注	名称	
+	200001	红土	red clay	
