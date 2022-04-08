@@ -1,0 +1,5 @@
+#	植物表													
+#	id	des	name	germination_period	seedling_period	growth_period	mature_period	preferential_temperature	survival_temperature	preferential_moisture	survival_moisture	preferential_light_duration	survival_light_duration	
+#	int	string	string	int	int	int	int	string	string	string	string	string	string	
+#	编号	备注	名称	发芽期	幼苗期	生长期	成熟期	适宜温度	存活温度	适宜土壤湿度	存活土壤湿度	适宜光照时长	存活光照时长	
+	100001	番茄	tomato	8	50	30	30	24_26	5_45	50_60	20_80	8_12	2_20	
